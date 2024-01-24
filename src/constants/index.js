@@ -51,7 +51,7 @@ import {
       icon: backend,
     },
     {
-      title: "Problem solver",
+      title: "Problem Solver",
       icon: creator,
     },
   ];

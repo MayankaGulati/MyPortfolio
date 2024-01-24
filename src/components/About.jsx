@@ -40,7 +40,7 @@ const About = () => {
       >
         I'm a skilled software developer with experience in Html, CSS and javascript, and
         frameworks like react. I design interactive website using figma, have
-        also worked with typescriptand three.js. I have hanson experience on tools like Git, Bitbucket, jira. I'm a quick learner and collaborate closely with clients to create efficiant, scalable, and
+        also worked with typescript and three.js. I have hands on experience on tools like Git, Bitbucket, Jira. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and
         user-friendly solutions that solve real world problems.
         Let's work together to bring our idea to life!!
       </motion.p>
