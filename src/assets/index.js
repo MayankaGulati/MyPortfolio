@@ -56,6 +56,5 @@ export {
   diagnostic,
   Admin,
   portfolio_logo,
-  resume,
   resumefile,
 };
